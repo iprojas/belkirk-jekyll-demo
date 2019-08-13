@@ -11,6 +11,8 @@ sections:
   create: all
   templates:
   - post
+- type: heading
+  label: Cabecera
 - type: jekyll-pages
   label: Pages
   create: all
