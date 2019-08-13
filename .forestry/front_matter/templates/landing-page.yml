@@ -78,5 +78,9 @@ fields:
   type: text
   hidden: true
   default: home
+- name: archivos
+  type: image_gallery
+  config: {}
+  label: Archivos
 pages:
 - index.md
